@@ -30,7 +30,7 @@ const Navbar = (props: Props) => {
               textDecoration: "inherit",
             }}
           >
-            dashboard
+            dashboard test
           </Link>
         </Box>
         <Box>
